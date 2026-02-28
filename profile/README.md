@@ -18,7 +18,10 @@
 
 NumericalEarth is a community building Julia software for Earth system modeling. We develop tools for running coupled atmosphere-ocean-sea ice simulations, wrangling climate datasets, and studying boundary layer physics --- from turbulence-resolving large eddy simulations to global climate models.
 
-Our software is built on [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl), a fast, friendly, flexible framework for ocean-flavored fluid dynamics on CPUs and GPUs.
+The NumericalEarth organization is anchored by an Earth system modeling package called `NumericalEarth.jl`.
+`NumericalEarth.jl` is in turn built on [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl).
+Our core mission is to accelerate progress in Earth system modeling, utilizing a strategy that combines ground-breaking user interface design with
+algorithms and numerical strategies that maximize both GPU performance and accessibility to scientists.
 
 <!--
 <p align="center">
