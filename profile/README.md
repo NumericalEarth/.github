@@ -1,11 +1,5 @@
 # NumericalEarth
 
-<!--
-<p align="center">
-  <img src="profile/figures/banner.png" alt="NumericalEarth" width="100%" />
-</p>
--->
-
 <p align="center">
   <strong>Open-source tools for simulating the Earth system at all scales</strong>
 </p>
@@ -23,13 +17,11 @@ The NumericalEarth organization is anchored by an Earth system modeling package 
 Our core mission is to accelerate progress in Earth system modeling, utilizing a strategy that combines ground-breaking user interface design with
 algorithms and numerical strategies that maximize both GPU performance and accessibility to scientists.
 
-<!--
 <p align="center">
-  <img src="profile/figures/global_simulation.png" alt="Global ocean simulation" width="80%" />
+  <img src="profile/figures/global_simulation.png" alt="Global ocean-sea ice simulation" width="80%" />
   <br />
-  <em>Global ocean-sea ice simulation driven by atmospheric reanalysis</em>
+  <em>Ocean surface speed and sea ice speed in a coupled ocean-sea ice simulation on a 1/6th degree tripolar grid (<a href="https://github.com/CliMA/Oceananigans.jl">Wagner et al. 2025</a>)</em>
 </p>
--->
 
 ## Getting Started
 
@@ -61,13 +53,11 @@ algorithms and numerical strategies that maximize both GPU performance and acces
 - [Cumulography.jl](https://github.com/NumericalEarth/Cumulography.jl) --- The art of cloudmaking
 - [DataAssimilocean.jl](https://github.com/NumericalEarth/DataAssimilocean.jl) --- Experiments in ensemble-based and variational data assimilation
 
-<!--
 <p align="center">
-  <img src="profile/figures/coupled_components.png" alt="NumericalEarth architecture" width="80%" />
+  <img src="profile/figures/baroclinic_instability.png" alt="Baroclinic instability on three grids" width="80%" />
   <br />
-  <em>NumericalEarth couples atmosphere, ocean, and sea ice components through interface flux computations</em>
+  <em>Relative vorticity and surface temperature in near-global baroclinic instability simulations on three different grids</em>
 </p>
--->
 
 ## What Can You Do With NumericalEarth?
 
