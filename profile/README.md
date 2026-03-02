@@ -68,3 +68,7 @@ algorithms and numerical strategies that maximize both GPU performance and acces
 We welcome contributions! Whether you're fixing bugs, improving documentation, or proposing new features, check the issues in the relevant repository to get started.
 
 Questions or ideas? Open a thread in our [Discussions](https://github.com/orgs/NumericalEarth/discussions).
+
+## Community
+
+Join the [NumericalEarth slack](https://join.slack.com/t/numericalearth/shared_invite/zt-3pwpvky4k-XX7RkgQgHLIUt~wtwGXN~Q) to connect with the NumericalEarth community!
