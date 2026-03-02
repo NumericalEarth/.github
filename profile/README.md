@@ -53,12 +53,6 @@ algorithms and numerical strategies that maximize both GPU performance and acces
 - [Cumulography.jl](https://github.com/NumericalEarth/Cumulography.jl) --- The art of cloudmaking
 - [DataAssimilocean.jl](https://github.com/NumericalEarth/DataAssimilocean.jl) --- Experiments in ensemble-based and variational data assimilation
 
-<p align="center">
-  <img src="profile/figures/baroclinic_instability.png" alt="Baroclinic instability on three grids" width="80%" />
-  <br />
-  <em>Relative vorticity and surface temperature in near-global baroclinic instability simulations on three different grids</em>
-</p>
-
 ## What Can You Do With NumericalEarth?
 
 **Coupled global simulations** --- Run ocean-sea ice models forced by atmospheric reanalysis (JRA55, ERA5), or fully coupled atmosphere-ocean experiments with [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl)
