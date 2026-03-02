@@ -61,7 +61,7 @@ algorithms and numerical strategies that maximize both GPU performance and acces
 
 **Climate data wrangling** --- Download, cache, regrid, and interpolate datasets from ECCO, GLORYS, ERA5, JRA55, EN4, and ETOPO bathymetry into model-ready formats
 
-**High-performance computing** --- Leverage GPU acceleration for global ocean simulations achieving ~8 simulated years per day on a single GPU
+**High-performance computing** --- Leverage GPU acceleration for global simulations
 
 ## Contributing
 
