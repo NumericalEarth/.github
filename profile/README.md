@@ -39,6 +39,7 @@ algorithms and numerical strategies that maximize both GPU performance and acces
 
 - [NumericalEarth.jl](https://github.com/NumericalEarth/NumericalEarth.jl) --- Coupled Earth system modeling with prescribed or prognostic atmosphere, ocean, sea ice, and land components
 - [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) --- Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans
+- [Terrarium.jl](https://github.com/NumericalEarth/Terrarium.jl) --- Global and regional land and terrestrial ecosystem modeling (soil, vegetation, snow, hydrology) at all scales
 
 ### Data and Tooling
 
