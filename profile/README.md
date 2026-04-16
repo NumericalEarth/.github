@@ -18,10 +18,17 @@ Our core mission is to accelerate progress in Earth system modeling, utilizing a
 algorithms and numerical strategies that maximize both GPU performance and accessibility to scientists.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/448c5c86-aa6f-4e36-86ef-6463d14294b0" alt="Global ocean-sea ice simulation" width="80%" />
+  <img width="1920" height="1080" src="https://github.com/user-attachments/assets/448c5c86-aa6f-4e36-86ef-6463d14294b0" alt="Global ocean-sea ice simulation" width="80%" />
   <br />
   <em>Ocean surface speed and sea ice speed in a coupled ocean-sea ice simulation on a 1/6th degree tripolar grid (<a href="https://github.com/CliMA/Oceananigans.jl">Wagner et al. 2025</a>)</em>
 </p>
+
+<p align="center">
+  <img width="1920" height="1080" alt="moist_baroclinic_wave 001" src="https://github.com/user-attachments/assets/46cb1ebd-1984-4cad-98df-460a50ee2467" />
+  <br />
+  <em>(Left) Atmosphere vertical integral of total liquid density and (right) surface speed in a simulation of moist baroclinic instability with prescribed SST and on a 1/24th degree latitude-longitude grid spanning 80 S, 80 N</em>
+</p>
+
 
 ## Getting Started
 
