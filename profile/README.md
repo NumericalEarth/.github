@@ -10,7 +10,7 @@
   <a href="https://github.com/orgs/NumericalEarth/discussions">Discussions</a>
 </p>
 
-NumericalEarth is a community building Julia software for Earth system modeling. We develop tools for running coupled atmosphere-ocean-sea ice simulations, wrangling climate datasets, and studying boundary layer physics --- from turbulence-resolving large eddy simulations to global climate models.
+NumericalEarth is a community building Julia software for Earth system modeling. We develop tools for running coupled atmosphere-ocean-sea ice simulations, wrangling climate datasets, simulating the atmosphere, ocean, sea ice, and land systems --- from turbulence-resolving large eddy simulations to global climate models.
 
 The NumericalEarth organization is anchored by an Earth system modeling package called `NumericalEarth.jl`.
 `NumericalEarth.jl` is in turn built on [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl).
