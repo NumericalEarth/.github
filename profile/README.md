@@ -25,8 +25,8 @@
 <p align="center">
   <a href="https://numericalearth.github.io/NumericalEarthDocumentation/dev/">Documentation</a> |
   <a href="https://github.com/NumericalEarth/NumericalEarth.jl/tree/main/examples">Examples</a> |
-  <a href="https://github.com/orgs/NumericalEarth/discussions">Discussions</a>
-  <a href="https://join.slack.com/t/numericalearth/shared_invite/zt-3pwpvky4k-XX7RkgQgHLIUt~wtwGXN~Q"Slack</a>
+  <a href="https://github.com/orgs/NumericalEarth/discussions">Discussions</a> |
+  <a href="https://join.slack.com/t/numericalearth/shared_invite/zt-3pwpvky4k-XX7RkgQgHLIUt~wtwGXN~Q">Slack</a>
 </p>
 
 <hr>
