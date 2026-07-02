@@ -1,14 +1,34 @@
-# NumericalEarth
+<h1 align="center">
+  NumericalEarth: all-scale Earth system simulation
+</h1>
+
+<h3 align="center">
+  Core packages
+</h3>
 
 <p align="center">
-  <strong>Open-source tools for simulating the Earth system at all scales</strong>
+  <a href="https://github.com/NumericalEarth/NumericalEarth.jl">NumericalEarth.jl</a> |
+  <a href="https://github.com/NumericalEarth/Breeze.jl">Breeze.jl</a> |
+  <a href="https://github.com/NumericalEarth/Terrarium.jl">Terrarium.jl</a> |
+  <a href="https://github.com/CliMA/Oceananigans.jl">Oceananigans.jl</a> |
+  <a href="https://github.com/CliMA/ClimaSeaIce.jl">ClimaSeaIce.jl</a> |
+  <a href="https://github.com/SpeedyWeather/SpeedyWeather.jl">SpeedyWeather.jl</a> |
 </p>
 
+<hr>
+
+<h3 align="center">
+    NumericalEarth.jl resources
+</h3>
+
+
 <p align="center">
-  <a href="https://numericalearth.github.io/NumericalEarthDocumentation/dev">Documentation</a> |
+  <a href="https://numericalearth.github.io/NumericalEarthDocumentation/dev/">Documentation</a> |
   <a href="https://github.com/NumericalEarth/NumericalEarth.jl/tree/main/examples">Examples</a> |
   <a href="https://github.com/orgs/NumericalEarth/discussions">Discussions</a>
 </p>
+
+<hr>
 
 NumericalEarth is a community building Julia software for Earth system modeling. We develop tools for running coupled atmosphere-ocean-sea ice simulations, wrangling climate datasets, simulating the atmosphere, ocean, sea ice, and land systems --- from turbulence-resolving large eddy simulations to global climate models.
 
