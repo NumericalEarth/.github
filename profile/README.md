@@ -80,7 +80,7 @@ algorithms and numerical strategies that maximize both GPU performance and acces
 
 - [PolarPlunge.jl](https://github.com/NumericalEarth/PolarPlunge.jl) --- Julia, GPU and fluid dynamics tutorial with Oceananignans and SpeedyWeather
 - [SwimLessons.jl](https://github.com/NumericalEarth/SwimLessons.jl) --- Tutorials that teach ocean-flavored fluid dynamics with Oceananigans
-- [ComputationalThinkingforClimate.jl](https://github.com/NumericalEarth/ComputationalThinkingforClimate.jl) --- Pluto notebooks on Earth's radiative balance, numerical fluid dynamics, and laptop-GPU ocean simulation with Oceananigans
+- [ComputationalThinkingforClimate.jl](https://github.com/NumericalEarth/ComputationalThinkingforClimate.jl) --- Tutorial introduction to Earth's radiative balance and numerical fluid dynamics, plus an Oceananigans showcase on a sphere
 - [Cumulography.jl](https://github.com/NumericalEarth/Cumulography.jl) --- The art of cloudmaking
 - [DataAssimilocean.jl](https://github.com/NumericalEarth/DataAssimilocean.jl) --- Experiments in ensemble-based and variational data assimilation
 
