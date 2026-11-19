@@ -80,6 +80,7 @@ algorithms and numerical strategies that maximize both GPU performance and acces
 
 - [PolarPlunge.jl](https://github.com/NumericalEarth/PolarPlunge.jl) --- Julia, GPU and fluid dynamics tutorial with Oceananignans and SpeedyWeather
 - [SwimLessons.jl](https://github.com/NumericalEarth/SwimLessons.jl) --- Tutorials that teach ocean-flavored fluid dynamics with Oceananigans
+- [ComputationalThinkingforClimate.jl](https://github.com/NumericalEarth/ComputationalThinkingforClimate.jl) --- Pluto notebooks for MIT 6.C25[J] Real World Computation with Julia: Climate Science
 - [Cumulography.jl](https://github.com/NumericalEarth/Cumulography.jl) --- The art of cloudmaking
 - [DataAssimilocean.jl](https://github.com/NumericalEarth/DataAssimilocean.jl) --- Experiments in ensemble-based and variational data assimilation
 
